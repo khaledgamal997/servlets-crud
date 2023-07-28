@@ -13,7 +13,7 @@ This is a Java web application that allows you to manage users through a user in
 1. Clone the repository to your local machine:
 
 ```
-git clone 
+git clone https://github.com/khaledgamal997/servlets-crud
 ```
 
 2. Create a MySQL database and import the `user_management.sql` script located in the `db_scripts` directory to create the necessary table for user data.
@@ -33,16 +33,6 @@ db.password=your_database_password
 6. Access the application using the URL of your deployed application (e.g., `http://localhost:8080/EmployeeController`).
 
 ## Features
-
-### API Endpoints
-
-The application exposes the following API endpoints to manage users:
-
-- `GET /api/users`: Retrieves a list of all users in the database.
-- `GET /api/users/{id}`: Retrieves a specific user by ID.
-- `POST /api/users`: Creates a new user with the provided user data.
-- `PUT /api/users/{id}`: Updates an existing user with the provided user data.
-- `DELETE /api/users/{id}`: Deletes a user with the given ID.
 
 ### User Interface
 
