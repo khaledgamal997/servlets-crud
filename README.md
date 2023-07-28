@@ -30,7 +30,7 @@ db.password=your_database_password
 
 5. Deploy the generated WAR file to your Apache Tomcat or any other Java Servlet container.
 
-6. Access the application using the URL of your deployed application (e.g., `http://localhost:8080/user-management`).
+6. Access the application using the URL of your deployed application (e.g., `http://localhost:8080/EmployeeController`).
 
 ## Features
 
