@@ -13,7 +13,7 @@ This is a Java web application that allows you to manage users through a user in
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/java-user-management.git
+git clone 
 ```
 
 2. Create a MySQL database and import the `user_management.sql` script located in the `db_scripts` directory to create the necessary table for user data.
@@ -54,13 +54,5 @@ The application provides a user-friendly web interface that allows you to intera
 - Edit an existing user.
 - Delete a user.
 
-## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue. We welcome contributions from the community.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-Please note that this is a general template for a README file. You may need to tailor it to match your project's specific details and requirements. Additionally, consider providing more detailed documentation, such as installation instructions, API documentation, and UI usage guidelines, to help users effectively use and contribute to your project.
